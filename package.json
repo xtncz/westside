@@ -1,0 +1,27 @@
+{
+    "name": "westside",
+    "version": "1.0.0",
+    "description": "Discord bot for the westside Discord server",
+    "private": true,
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "social",
+        "community",
+        "asian",
+        "asians",
+        "keshi"
+    ],
+    "author": {
+        "email": "ascendus.dev@gmail.com",
+        "name": "xtncz",
+        "url": "https://github.com/xtncz"
+    },
+    "license": "ISC",
+    "packageManager": "pnpm@10.8.1",
+    "devDependencies": {
+        "@biomejs/biome": "1.9.4"
+    }
+}
